@@ -2,7 +2,7 @@ import HelloWorld from '@common/components/HelloWorld'
 
 Vue.use(Router)
 
-export default const common = {
+export const common = {
   routes: [
     {
       path: '/',
